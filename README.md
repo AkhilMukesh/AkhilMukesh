@@ -7,6 +7,8 @@ Java / Spring Boot · Microservices · Python · Generative AI · Agentic AI · 
 
 I build scalable backend systems and AI-powered applications, with a focus on clean architecture, distributed systems, and production-ready software.
 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Portfolio-blue?style=for-the-badge)](https://akhil-mukesh-portfolio.vercel.app/)
+
 ## Snapshot
 
 |                   |                                                                       |
