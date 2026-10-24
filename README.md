@@ -5,8 +5,8 @@ Software Engineer · Java Full Stack & AI Engineer | India
 
 Java / Spring Boot · Microservices · Python · Generative AI · Agentic AI · React
 
-I build scalable backend systems and AI-powered applications, with a focus on clean architecture, distributed systems, and production-ready software.
 
+[![Akhil Mukesh Bot](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Portfolio-blue?style=for-the-badge)](https://akhil-mukesh-bot.onrender.com/)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Portfolio-blue?style=for-the-badge)](https://akhil-mukesh-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhil-mukesh-43376a126/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/akhil_mukesh/)
